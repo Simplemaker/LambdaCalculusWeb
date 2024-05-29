@@ -1,0 +1,18 @@
+Version 1.0 - 11/7/2021
+-Added side-by-side GUI
+-Lambda Calculus functionality based on debruijn indices
+-Input allows for definition and reuse of constants
+
+Version 1.1 - 11/7/2021
+-Added integer input
+-Added interpretive output. 
+
+Version 1.2 - 11/20/2021
+-Improved constant printouts
+-Added import dropdown
+-improved robust parenthesis interpretation
+
+Version 1.3 - 11/21/2021
+-Added support for lazy evaulation
+-Added recursion library
+-Y combinator is definable
